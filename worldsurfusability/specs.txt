@@ -1,0 +1,20 @@
+Specs 
+
+Colors:
+Tropical Island Adobe Color Scheme
+https://kuler.adobe.com/Tropical-Island-color-theme-1185542/edit/?copy=true
+
+sand-yellow: 242 239 170		#F2EFAA
+med. blue: 86 121 143			#56798F
+pale blue:	171 221 240			#ABDDF0
+teal: 14 56 61					#0E383D
+dark blue: 17 32 48				#112030
+
+white: 223 228 222				#E9E4DE
+
+Fonts:
+logo text: Hobo Std Medium
+body text: calibri or sans sarif
+
+Image:
+http://a66c7b.medialib.glogster.com/media/1a/1aab5853fc08650ce0aabb16f5fa6a6030bebec1499dc32aa98fee1a966c499d/telefono-celular-samsung-surf-hawai-jpg.jpg
